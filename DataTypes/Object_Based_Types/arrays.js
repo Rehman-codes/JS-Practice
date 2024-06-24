@@ -200,5 +200,3 @@ console.log('flat       ', flatArray);
 // 14. flatMap: First maps each element using a mapping function, then flattens the result into a new array.
 let flatMapped = numbers.flatMap(num => [num, num * 2]);
 console.log('flatMap    ', flatMapped);
-
-
