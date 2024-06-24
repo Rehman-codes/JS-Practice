@@ -36,6 +36,9 @@ console.log(x && y); // AND: Output: false
 console.log(x || y); // OR: Output: true
 console.log(!x); // NOT: Output: false
 
+/* In JavaScript, the logical OR (||) operator performs short-circuit evaluation.
+This means that if the left-hand operand evaluates to true, 
+the right-hand operand is not evaluated because the overall result will already be true regardless of the right-hand operand's value. */
 
 /* -------Assignment Operators------- */
 
