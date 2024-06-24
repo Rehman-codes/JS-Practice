@@ -1,3 +1,7 @@
+/* Primitive data types are basic types provided by JavaScript, 
+such as Number, String, Boolean, Null, Undefined, Symbol, and BigInt, 
+which represent single values and are immutable.  */ 
+
 /* ----------------------------------------------1.Number----------------------------------------------
 They represent [integers] and [decimals].
 They can have have special values such as "Infinity" and "NaN". */
