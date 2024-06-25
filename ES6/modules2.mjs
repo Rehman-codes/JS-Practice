@@ -1,8 +1,8 @@
 // Importing named exports
-import { add, subtract, multiply, divide } from './modules1.js';
+import { add, subtract, multiply } from './modules1.mjs';
 
 // Importing default export
-import PI from './modules1.js';
+import PI from './modules1.mjs';
 
 console.log("Add:", add(5, 3)); // Add: 8
 console.log("Subtract:", subtract(5, 3)); // Subtract: 2
