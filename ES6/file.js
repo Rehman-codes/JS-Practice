@@ -257,8 +257,5 @@ console.log(person10.fullName()); // Output: Alice Wonderland
 
 
 /* -------------------------------- Others -------------------------------- */
-// 6.let and const Keywords
-// 7.Arrow Functions
 // 8.Promises
-// 9.Classes
 // 10.Modules
