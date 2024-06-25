@@ -258,4 +258,3 @@ console.log(person10.fullName()); // Output: Alice Wonderland
 
 /* -------------------------------- Others -------------------------------- */
 // 8.Promises
-// 10.Modules
