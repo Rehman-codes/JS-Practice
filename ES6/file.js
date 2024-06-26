@@ -253,8 +253,3 @@ const person10 = {
 
 console.log(person9.fullName()); // Output: Alice Wonderland
 console.log(person10.fullName()); // Output: Alice Wonderland
-
-
-
-/* -------------------------------- Others -------------------------------- */
-// 8.Promises
